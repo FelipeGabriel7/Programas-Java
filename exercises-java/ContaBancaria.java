@@ -33,7 +33,8 @@ public class Pilha{
     int saldo = 0;
     int saque = 0;
     int novoSaldo = 0;
-  
+   
+   exibeSaldo();
 
     do{
          if(menuEscolha < 1 || menuEscolha > 5){
