@@ -1,4 +1,4 @@
-# Programas-Java
+# Programas em Java
 
 ## Java
 Repositório dedicado ao meu aprendizado em java no ensino superior
